@@ -19,3 +19,12 @@ print (d)
 e = bool (10) ## any non zero number, both positive or negative, is True
 
 print (e)
+
+
+g = bool ('India') # any non-empty string will pop out True
+
+print (g)
+
+h = bool ('') # since it is an empty string will pop out False
+
+print (h)
