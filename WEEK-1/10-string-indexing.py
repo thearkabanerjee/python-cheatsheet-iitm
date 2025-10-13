@@ -1,6 +1,6 @@
 # string indexing 
 
-# string indexing starts just with 
+# string indexing starts just with 0
 
 
 a = "hello"
