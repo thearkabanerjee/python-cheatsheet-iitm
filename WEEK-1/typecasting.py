@@ -16,6 +16,6 @@ d = bool (0) # False
 
 print (d)
 
-e = bool (10) ## any non zero number is True
+e = bool (10) ## any non zero number, both positive or negative, is True
 
 print (e)
