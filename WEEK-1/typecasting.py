@@ -12,6 +12,10 @@ c = str(10.3) # this will convert 10.3 to '10.3'
 
 print (c)
 
-d = bool (0)
+d = bool (0) # False
 
 print (d)
+
+e = bool (10) ## any non zero number is True
+
+print (e)
