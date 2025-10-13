@@ -28,3 +28,5 @@ print (g)
 h = bool ('') # since it is an empty string will pop out False
 
 print (h)
+
+i = bool (" ") # since there is a space in between the quotes, the print thingy will pop out True
