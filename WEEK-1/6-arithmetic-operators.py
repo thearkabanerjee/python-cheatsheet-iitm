@@ -1,6 +1,8 @@
 # arithmetic operators
 
 """ 
+
+
 + -> Addition (int or float) , Concatenation (str)
 
 - -> Substraction
@@ -14,5 +16,7 @@
 % -> Modulus Division (remainder after division)
 
 ** -> Exponentiation (power)
+
+
 
 """
