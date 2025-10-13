@@ -1,5 +1,7 @@
 # string indexing 
 
+# string indexing starts just with 
+
 
 a = "hello"
 
