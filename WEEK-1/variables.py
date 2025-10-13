@@ -2,4 +2,8 @@
 
 a = 10 # integers 
 
-b = 
+b = 5.7 # floats
+
+c = "hello world" # string
+
+d = True # bool   (boolean means True or False)
