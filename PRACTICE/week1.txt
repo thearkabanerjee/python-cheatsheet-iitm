@@ -1,0 +1,11 @@
+dumping in here what i need to practice for week 1
+
+1. string - indexing  (nothing much thou)
+
+2. string - slicing
+
+3. string - comparison
+
+4. string - length (should not be that big problem but practicing never hurts)
+
+5. logical operators  (and, or & not)
