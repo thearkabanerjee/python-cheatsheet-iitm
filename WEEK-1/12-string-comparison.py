@@ -8,3 +8,12 @@
 
 
 """
+
+"""
+here are a few more examples too  (these just explain a little better)
+
+print('abc' < 'abd')   # True (c < d)
+print('cat' < 'car')   # False (t > r)
+print('Dog' < 'dog')   # True (uppercase < lowercase)
+
+"""
