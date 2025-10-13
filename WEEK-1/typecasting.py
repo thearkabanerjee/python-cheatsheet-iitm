@@ -12,3 +12,6 @@ c = str(10.3) # this will convert 10.3 to '10.3'
 
 print (c)
 
+d = bool (0)
+
+print (d)
