@@ -19,4 +19,6 @@
 
 # examples 
 
+message = "hello world"
+
 
