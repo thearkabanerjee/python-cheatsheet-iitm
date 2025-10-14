@@ -11,6 +11,6 @@
 
 * you can reassign variables to different types freely 
 
-
+* if offers flexibility; but also means type-related errors can show up only when the code runs, not before.
 
 '''
