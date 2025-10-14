@@ -21,6 +21,11 @@
 
 message = "hello world"
 
+print (type(message))
 # type (message) == string
 
+message = 10
+
+print (type(message))
+# type (message) is now changed to integer
 
