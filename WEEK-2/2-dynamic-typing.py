@@ -6,7 +6,8 @@
 # declare the type of a variable when you create it — the
 # interpreter figures it out at runtime based on the value you assign.
 
-''' in short;
+''' in short:
+
 * variable types are determined at runtime
 
 * you can reassign variables to different types freely 
