@@ -21,4 +21,6 @@
 
 message = "hello world"
 
+# type (message) == string
+
 
