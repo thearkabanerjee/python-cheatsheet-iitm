@@ -9,5 +9,3 @@ del x # deletes the variable
 
 print (x) # prints out a ERROR cz there's no x variable anymore
 
-
-
