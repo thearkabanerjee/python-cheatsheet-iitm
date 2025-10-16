@@ -11,3 +11,4 @@ print( x < 2 * x < 3 *x > 4 *x ) # prints out False
 
 print( 5 < 10 < 15 > 20 ) # prints out False 
 
+# 15 is not greater than 20
