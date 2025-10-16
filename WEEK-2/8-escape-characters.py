@@ -10,3 +10,10 @@ print(‘It’s Raining’) -> Error #All Characters after second ‘ (single qu
 
 '''
 
+# So we use \ before the ‘   print(‘It\’s Raining’) -> It’s Raining
+
+''' 
+#Other Escape Characters - \n : Cursor moves to the next line
+                           \t: Shifts cursor by 5 spaces                        
+
+'''
