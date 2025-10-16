@@ -9,4 +9,5 @@ print( x < 2 * x < 3 *x > 4 *x ) # prints out False
 
 # above can be looked as
 
-print( 5 < 10 < 15 > 20 )
+print( 5 < 10 < 15 > 20 ) # prints out False 
+
