@@ -1,1 +1,3 @@
-# in operator - Tells whether something is inside/part of the other thing (similar to the English definition)
+# in operator:
+# Tells whether something is inside/part of the other thing (similar to the English definition)
+
