@@ -20,3 +20,9 @@
 
 
 """
+print ('hello world')
+
+print (True)
+
+a = 12 
+
