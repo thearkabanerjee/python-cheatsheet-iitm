@@ -25,4 +25,6 @@ print ('hello world')
 print (True)
 
 a = 12 
+variable = 'new phrase is beninging'
+
 
